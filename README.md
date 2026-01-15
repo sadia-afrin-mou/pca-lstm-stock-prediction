@@ -68,17 +68,6 @@ Main analysis notebook with complete pipeline:
   - Feature loading heatmaps
   - Performance comparison
 
-**Sections:**
-1. Import Libraries
-2. Functions & Data Pipeline
-3. PCA-LSTM Training Results
-4. PCA Explained Variance Analysis
-5. PCA Component Visualization
-6. Model Comparison: Without PCA
-7. PCA Components Heatmap
-8. Comprehensive PCA Analysis & Results
-9. Summary & Conclusions
-
 ### 2. **technical-indicators.ipynb**
 Educational notebook demonstrating technical indicators:
 
